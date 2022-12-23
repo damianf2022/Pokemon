@@ -1,0 +1,790 @@
+[
+    {
+      "name": "bulbasaur",
+      "id": 1,
+      "height": 7,
+      "weight": 69,
+      "types": [
+        {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        },
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "speed": 45,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif"
+    },
+    {
+      "name": "ivysaur",
+      "id": 2,
+      "height": 10,
+      "weight": 130,
+      "types": [
+        {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        },
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 60,
+      "attack": 62,
+      "defense": 63,
+      "speed": 60,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif"
+    },
+    {
+      "name": "venusaur",
+      "id": 3,
+      "height": 20,
+      "weight": 1000,
+      "types": [
+        {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        },
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "speed": 80,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif"
+    },
+    {
+      "name": "charmander",
+      "id": 4,
+      "height": 6,
+      "weight": 85,
+      "types": [
+        {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      ],
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "speed": 65,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif"
+    },
+    {
+      "name": "charmeleon",
+      "id": 5,
+      "height": 11,
+      "weight": 190,
+      "types": [
+        {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      ],
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "speed": 80,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/5.gif"
+    },
+    {
+      "name": "charizard",
+      "id": 6,
+      "height": 17,
+      "weight": 905,
+      "types": [
+        {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        },
+        {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      ],
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "speed": 100,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif"
+    },
+    {
+      "name": "squirtle",
+      "id": 7,
+      "height": 5,
+      "weight": 90,
+      "types": [
+        {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      ],
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "speed": 43,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif"
+    },
+    {
+      "name": "wartortle",
+      "id": 8,
+      "height": 10,
+      "weight": 225,
+      "types": [
+        {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      ],
+      "hp": 59,
+      "attack": 63,
+      "defense": 80,
+      "speed": 58,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/8.gif"
+    },
+    {
+      "name": "blastoise",
+      "id": 9,
+      "height": 16,
+      "weight": 855,
+      "types": [
+        {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      ],
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "speed": 78,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif"
+    },
+    {
+      "name": "caterpie",
+      "id": 10,
+      "height": 3,
+      "weight": 29,
+      "types": [
+        {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      ],
+      "hp": 45,
+      "attack": 30,
+      "defense": 35,
+      "speed": 45,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10.gif"
+    },
+    {
+      "name": "metapod",
+      "id": 11,
+      "height": 7,
+      "weight": 99,
+      "types": [
+        {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      ],
+      "hp": 50,
+      "attack": 20,
+      "defense": 55,
+      "speed": 30,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/11.gif"
+    },
+    {
+      "name": "butterfree",
+      "id": 12,
+      "height": 11,
+      "weight": 320,
+      "types": [
+        {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        },
+        {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      ],
+      "hp": 60,
+      "attack": 45,
+      "defense": 50,
+      "speed": 70,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/12.gif"
+    },
+    {
+      "name": "weedle",
+      "id": 13,
+      "height": 3,
+      "weight": 32,
+      "types": [
+        {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        },
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "speed": 50,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/13.gif"
+    },
+    {
+      "name": "kakuna",
+      "id": 14,
+      "height": 6,
+      "weight": 100,
+      "types": [
+        {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        },
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 45,
+      "attack": 25,
+      "defense": 50,
+      "speed": 35,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/14.gif"
+    },
+    {
+      "name": "beedrill",
+      "id": 15,
+      "height": 10,
+      "weight": 295,
+      "types": [
+        {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        },
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 65,
+      "attack": 90,
+      "defense": 40,
+      "speed": 75,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/15.gif"
+    },
+    {
+      "name": "pidgey",
+      "id": 16,
+      "height": 3,
+      "weight": 18,
+      "types": [
+        {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        },
+        {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      ],
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "speed": 56,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif"
+    },
+    {
+      "name": "pidgeotto",
+      "id": 17,
+      "height": 11,
+      "weight": 300,
+      "types": [
+        {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        },
+        {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      ],
+      "hp": 63,
+      "attack": 60,
+      "defense": 55,
+      "speed": 71,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/17.gif"
+    },
+    {
+      "name": "pidgeot",
+      "id": 18,
+      "height": 15,
+      "weight": 395,
+      "types": [
+        {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        },
+        {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      ],
+      "hp": 83,
+      "attack": 80,
+      "defense": 75,
+      "speed": 101,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif"
+    },
+    {
+      "name": "rattata",
+      "id": 19,
+      "height": 3,
+      "weight": 35,
+      "types": [
+        {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      ],
+      "hp": 30,
+      "attack": 56,
+      "defense": 35,
+      "speed": 72,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/19.gif"
+    },
+    {
+      "name": "raticate",
+      "id": 20,
+      "height": 7,
+      "weight": 185,
+      "types": [
+        {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      ],
+      "hp": 55,
+      "attack": 81,
+      "defense": 60,
+      "speed": 97,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/20.gif"
+    },
+    {
+      "name": "spearow",
+      "id": 21,
+      "height": 3,
+      "weight": 20,
+      "types": [
+        {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        },
+        {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      ],
+      "hp": 40,
+      "attack": 60,
+      "defense": 30,
+      "speed": 70,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/21.gif"
+    },
+    {
+      "name": "fearow",
+      "id": 22,
+      "height": 12,
+      "weight": 380,
+      "types": [
+        {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        },
+        {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      ],
+      "hp": 65,
+      "attack": 90,
+      "defense": 65,
+      "speed": 100,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/22.gif"
+    },
+    {
+      "name": "ekans",
+      "id": 23,
+      "height": 20,
+      "weight": 69,
+      "types": [
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 35,
+      "attack": 60,
+      "defense": 44,
+      "speed": 55,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/23.gif"
+    },
+    {
+      "name": "arbok",
+      "id": 24,
+      "height": 35,
+      "weight": 650,
+      "types": [
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 60,
+      "attack": 95,
+      "defense": 69,
+      "speed": 80,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/24.gif"
+    },
+    {
+      "name": "pikachu",
+      "id": 25,
+      "height": 4,
+      "weight": 60,
+      "types": [
+        {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      ],
+      "hp": 35,
+      "attack": 55,
+      "defense": 40,
+      "speed": 90,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
+    },
+    {
+      "name": "raichu",
+      "id": 26,
+      "height": 8,
+      "weight": 300,
+      "types": [
+        {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      ],
+      "hp": 60,
+      "attack": 90,
+      "defense": 55,
+      "speed": 110,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif"
+    },
+    {
+      "name": "sandshrew",
+      "id": 27,
+      "height": 6,
+      "weight": 120,
+      "types": [
+        {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      ],
+      "hp": 50,
+      "attack": 75,
+      "defense": 85,
+      "speed": 40,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif"
+    },
+    {
+      "name": "sandslash",
+      "id": 28,
+      "height": 10,
+      "weight": 295,
+      "types": [
+        {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      ],
+      "hp": 75,
+      "attack": 100,
+      "defense": 110,
+      "speed": 65,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/28.gif"
+    },
+    {
+      "name": "nidoran-f",
+      "id": 29,
+      "height": 4,
+      "weight": 70,
+      "types": [
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 55,
+      "attack": 47,
+      "defense": 52,
+      "speed": 41,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/29.gif"
+    },
+    {
+      "name": "nidorina",
+      "id": 30,
+      "height": 8,
+      "weight": 200,
+      "types": [
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 70,
+      "attack": 62,
+      "defense": 67,
+      "speed": 56,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/30.gif"
+    },
+    {
+      "name": "nidoqueen",
+      "id": 31,
+      "height": 13,
+      "weight": 600,
+      "types": [
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        },
+        {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      ],
+      "hp": 90,
+      "attack": 92,
+      "defense": 87,
+      "speed": 76,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif"
+    },
+    {
+      "name": "nidoran-m",
+      "id": 32,
+      "height": 5,
+      "weight": 90,
+      "types": [
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 46,
+      "attack": 57,
+      "defense": 40,
+      "speed": 50,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/32.gif"
+    },
+    {
+      "name": "nidorino",
+      "id": 33,
+      "height": 9,
+      "weight": 195,
+      "types": [
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      ],
+      "hp": 61,
+      "attack": 72,
+      "defense": 57,
+      "speed": 65,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/33.gif"
+    },
+    {
+      "name": "nidoking",
+      "id": 34,
+      "height": 14,
+      "weight": 620,
+      "types": [
+        {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        },
+        {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      ],
+      "hp": 81,
+      "attack": 102,
+      "defense": 77,
+      "speed": 85,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif"
+    },
+    {
+      "name": "clefairy",
+      "id": 35,
+      "height": 6,
+      "weight": 75,
+      "types": [
+        {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      ],
+      "hp": 70,
+      "attack": 45,
+      "defense": 48,
+      "speed": 35,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/35.gif"
+    },
+    {
+      "name": "clefable",
+      "id": 36,
+      "height": 13,
+      "weight": 400,
+      "types": [
+        {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      ],
+      "hp": 95,
+      "attack": 70,
+      "defense": 73,
+      "speed": 60,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/36.gif"
+    },
+    {
+      "name": "vulpix",
+      "id": 37,
+      "height": 6,
+      "weight": 99,
+      "types": [
+        {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      ],
+      "hp": 38,
+      "attack": 41,
+      "defense": 40,
+      "speed": 65,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif"
+    },
+    {
+      "name": "ninetales",
+      "id": 38,
+      "height": 11,
+      "weight": 199,
+      "types": [
+        {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      ],
+      "hp": 73,
+      "attack": 76,
+      "defense": 75,
+      "speed": 100,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/38.gif"
+    },
+    {
+      "name": "jigglypuff",
+      "id": 39,
+      "height": 5,
+      "weight": 55,
+      "types": [
+        {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        },
+        {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      ],
+      "hp": 115,
+      "attack": 45,
+      "defense": 20,
+      "speed": 20,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif"
+    },
+    {
+      "name": "wigglytuff",
+      "id": 40,
+      "height": 10,
+      "weight": 120,
+      "types": [
+        {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        },
+        {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      ],
+      "hp": 140,
+      "attack": 70,
+      "defense": 45,
+      "speed": 45,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+      "imggif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/40.gif"
+    }
+  ]
